@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nice CardView</string>
+    <string name="reminder_dialog_title">Set Reminder</string>
+    <string name="reminder_dialog_title_edit">Edit Reminder</string>
+    <string name="reminder_dialog_save">Save</string>
+    <string name="reminder_dialog_delete">Delete</string>
+    <string name="reminder_dialog_cancel">Cancel</string>
+    <string name="reminder_dialog_preference_time">Saved Selected Time</string>
+    <string name="reminder_dialog_preference_set_reminder">Reminder Set?</string>
+    <string name="reminder_dialog_preference_date">Saved Selected Date</string>
+    <string name="reminder_dialog_preference_date_selected">Picked Date</string>
+    <string name="reminder_preference_hour">Hour</string>
+    <string name="reminder_preference_minute">Minute</string>
+    <string name="reminder_dialog_preference_day">Day</string>
+    <string name="reminder_dialog_preference_month">Month</string>
+    <string name="reminder_dialog_preference_year">Year</string>
+
+
+    <string name="error_message_time_has_passed">The time has passsed!</string>
+</resources>

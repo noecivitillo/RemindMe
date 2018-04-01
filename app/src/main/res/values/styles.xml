@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/transparent_gray_50</item>
+        <item name="colorPrimaryDark">@color/transparent_black</item>
+        <item name="colorAccent">@color/gray_700</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+</resources>

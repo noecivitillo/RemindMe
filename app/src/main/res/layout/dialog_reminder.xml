@@ -1,0 +1,32 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/reminder_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+    <e.test.nicecardview.CustomSpinner
+        android:id="@+id/spinner_month_day"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <e.test.nicecardview.CustomSpinner
+        android:id="@+id/spinner_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </e.test.nicecardview.CustomSpinner>
+    <TextView
+        android:id="@+id/text_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/error_message_time_has_passed"
+        android:textSize="12sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:textColor="@android:color/holo_red_light"/>
+    <e.test.nicecardview.CustomSpinner
+        android:id="@+id/spinner_frequency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </e.test.nicecardview.CustomSpinner>
+</LinearLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="gray">#EEEEEE</color>
+    <color name="gray2">#E0E0E0</color>
+    <color name="gray3">#BDBDBD</color>
+    <color name="blue_400">#5C6BC0</color>
+    <color name="teal_500">#009688</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_100">#B2DFDB</color>
+    <color name="amber_900">#FF6F00</color>
+    <color name="black">#000000</color>
+    <color name="deep_orange_800">#D84315</color>
+    <color name="deep_orange_500">#FF5722</color>
+    <color name="deep_orange_a400">#FF6E40</color>
+    <color name="deep_orange_300">#FF8A65</color>
+    <color name="deep_orange_200">#FFAB91</color>
+    <color name="gray_50">#FAFAFA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="deep_orange_a200">#ff6e40</color>
+    <color name="indigo_200">#9FA8DA</color>
+    <color name="light_blue_a400">#00b0ff</color>
+    <color name="cyan_a400">#00E5FF</color>
+    <color name="red_a400">#ff1744</color>
+    <color name="green_400">#66bb6a</color>
+    <color name="teal_400">#26a69a</color>
+    <color name="cyan_a700">#00b8d4</color>
+    <color name="blue_a100">#82b1ff</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="yellow_800">#F9A825</color>
+    <color name="orange_600">#FB8C00</color>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey300">#90A4AE</color>
+    <color name="light_green_500">#8BC34A</color>
+    <color name="green_a700">#00C853</color>
+    <color name="lime_800">#9E9D24</color>
+    <color name="teal_a700">#00BFA5</color>
+    <color name="light_blue_500">#03A9F4</color>
+    <color name="deep_purple_200">#B39DDB</color>
+    <color name="pink_200">#F48FB1</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="red_a100">#FF8A80</color>
+    <color name="purple_a100">#EA80FC</color>
+    <color name="transparent_black">#50000000</color>
+
+    <color name="transparent_gray_50">#00FAFAFA</color>
+    <color name="gray_700">#616161</color>
+
+
+    <array name="shape_color">
+        <item>@color/blue_grey300</item>
+        <item>@color/deep_orange_a400</item>
+        <item>@color/gray_500</item>
+        <item>@color/orange_600</item>
+        <item>@color/amber_900</item>
+        <item>@color/yellow_800</item>
+        <item>@color/lime_800</item>
+        <item>@color/light_green_500</item>
+        <item>@color/green_a700</item>
+        <item>@color/teal_a700</item>
+        <item>@color/cyan_a400</item>
+        <item>@color/light_blue_500</item>
+        <item>@color/blue_400</item>
+        <item>@color/indigo_200</item>
+        <item>@color/deep_purple_200</item>
+        <item>@color/cyan_a700</item>
+        <item>@color/purple_200</item>
+        <item>@color/pink_200</item>
+        <item>@color/red_a100</item>
+        <item>@color/purple_a100</item>
+    </array>
+</resources>
